@@ -1,0 +1,124 @@
+{"frames": [
+
+{
+	"filename": "balloon_01",
+	"frame": {"x":1724,"y":546,"w":246,"h":246},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":246,"h":246},
+	"sourceSize": {"w":246,"h":246}
+},
+{
+	"filename": "balloon_02",
+	"frame": {"x":1724,"y":271,"w":246,"h":273},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":246,"h":273},
+	"sourceSize": {"w":246,"h":273}
+},
+{
+	"filename": "balloon_03",
+	"frame": {"x":980,"y":481,"w":241,"h":314},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":241,"h":314},
+	"sourceSize": {"w":241,"h":314}
+},
+{
+	"filename": "balloon_04",
+	"frame": {"x":402,"y":490,"w":256,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":320},
+	"sourceSize": {"w":256,"h":320}
+},
+{
+	"filename": "balloon_07",
+	"frame": {"x":660,"y":481,"w":318,"h":314},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":318,"h":314},
+	"sourceSize": {"w":318,"h":314}
+},
+{
+	"filename": "balloon_explode_01",
+	"frame": {"x":1724,"y":1,"w":261,"h":268},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":117,"y":117,"w":261,"h":268},
+	"sourceSize": {"w":520,"h":497}
+},
+{
+	"filename": "balloon_explode_02",
+	"frame": {"x":1,"y":490,"w":349,"h":378},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":63,"w":349,"h":378},
+	"sourceSize": {"w":520,"h":497}
+},
+{
+	"filename": "balloon_explode_03",
+	"frame": {"x":514,"y":1,"w":503,"h":478},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":6,"w":503,"h":478},
+	"sourceSize": {"w":520,"h":497}
+},
+{
+	"filename": "balloon_explode_04",
+	"frame": {"x":1,"y":1,"w":511,"h":487},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":6,"w":511,"h":487},
+	"sourceSize": {"w":520,"h":497}
+},
+{
+	"filename": "balloon_explode_05",
+	"frame": {"x":1223,"y":465,"w":499,"h":429},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":29,"w":499,"h":429},
+	"sourceSize": {"w":520,"h":497}
+},
+{
+	"filename": "balloon_explode_06",
+	"frame": {"x":1019,"y":1,"w":503,"h":462},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":21,"w":503,"h":462},
+	"sourceSize": {"w":520,"h":497}
+},
+{
+	"filename": "string_01",
+	"frame": {"x":1524,"y":1,"w":62,"h":272},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":62,"h":272},
+	"sourceSize": {"w":62,"h":272}
+},
+{
+	"filename": "string_02",
+	"frame": {"x":352,"y":490,"w":48,"h":365},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":365},
+	"sourceSize": {"w":48,"h":365}
+},
+{
+	"filename": "string_03",
+	"frame": {"x":1588,"y":1,"w":22,"h":314},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":314},
+	"sourceSize": {"w":22,"h":314}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "balloons.png",
+	"format": "RGBA8888",
+	"size": {"w":1986,"h":895},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:640b1bcaae11ccf61f5d7034f9a82d7f:42639fc7e8412f0924f98332476c17b8:1f76e39750ef6e7665adb3d0943b9bfa$"
+}
+}
